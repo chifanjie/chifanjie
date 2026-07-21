@@ -19,13 +19,3 @@ I’m a student at BUPT, currently building a broad foundation in modern artific
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,linux,git&theme=dark&perline=8" alt="Tools: Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Docker, Linux, and Git" />
 </p>
-
-## Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chifanjie/chifanjie/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chifanjie/chifanjie/output/github-contribution-grid-snake.svg" />
-    <img alt="" src="https://raw.githubusercontent.com/chifanjie/chifanjie/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
